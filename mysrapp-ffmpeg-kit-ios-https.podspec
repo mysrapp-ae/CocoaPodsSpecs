@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.version      = "6.0"
   s.summary      = "FFmpeg Kit iOS Https Shared Framework"
   s.description  = "Includes FFmpeg with gmp and gnutls libraries enabled."
-  s.homepage     = "https://github.com/<your org>/ffmpeg-kit"
+  s.homepage     = "https://github.com/mysrapp-ae/ffmpeg-kit"
   s.license      = { :type => "LGPL-3.0", :text => "Licensed under the LGPL-3.0" }
   s.authors      = "<author_name>"
 

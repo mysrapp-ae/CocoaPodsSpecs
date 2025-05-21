@@ -1,9 +1,10 @@
 # ffmpeg-kit-ios-video.podspec
+require "json"
 Pod::Spec.new do |s|
   s.name         = "mysrapp-ffmpeg-kit-ios-https"
   s.version      = "6.0"
   s.summary      = "FFmpeg Kit iOS Https Shared Framework"
-  s.description  = "Includes FFmpeg with gmp and gnutls libraries enabled."
+  s.description  = ""
   s.homepage     = "https://github.com/mysrapp-ae/ffmpeg-kit"
   s.license      = { :type => "LGPL-3.0", :text => "Licensed under the LGPL-3.0" }
   s.authors      = "mysrapp-ae"

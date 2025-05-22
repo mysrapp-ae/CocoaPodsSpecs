@@ -2,7 +2,7 @@
 require "json"
 Pod::Spec.new do |s|
   s.name         = "mysrapp-ffmpeg-kit-ios-https"
-  s.version      = "6.0"
+  s.version      = "6.0.3"
   s.summary      = "FFmpeg Kit iOS Https Shared Framework"
   s.description  = "FFmpeg Kit iOS Https Shared Framework FFmpeg"
   s.homepage     = "https://github.com/mysrapp-ae/ffmpeg-kit"
